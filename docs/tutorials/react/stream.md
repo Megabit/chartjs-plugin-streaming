@@ -4,6 +4,7 @@ You can append the data in the callback function and add more chart options. The
 
 #### src/App.js
 
+{% raw %}
 ```jsx{15-19,22-26,34-44}
 import React, { Component } from 'react';
 import { Line, Chart } from 'react-chartjs-2';
@@ -59,6 +60,7 @@ class App extends Component {
 
 export default App;
 ```
+{% endraw %}
 
 ...and you're done!
 

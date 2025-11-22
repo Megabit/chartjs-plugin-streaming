@@ -4,6 +4,7 @@ Now you’ll want to create a chart component with a realtime scale. Import char
 
 #### src/App.js
 
+{% raw %}
 ```jsx
 import React, { Component } from 'react';
 import { Line, Chart } from 'react-chartjs-2';
@@ -38,3 +39,4 @@ class App extends Component {
 
 export default App;
 ```
+{% endraw %}
