@@ -4,6 +4,7 @@ realtime スケールを持つチャートコンポーネントを作成しま�
 
 #### src/App.js
 
+{% raw %}
 ```jsx
 import React, { Component } from 'react';
 import { Line, Chart } from 'react-chartjs-2';
