@@ -6,7 +6,7 @@
   "contributors": [
     "Megabit"
   ],
-  "version": "3.0.0",
+  "version": "4.0.0",
   "license": "MIT",
   "jsdelivr": "dist/chartjs-plugin-streaming.min.js",
   "unpkg": "dist/chartjs-plugin-streaming.min.js",
